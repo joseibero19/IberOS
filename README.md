@@ -1,5 +1,7 @@
 # IberOS ✨
 
+*[English version available here](README.en.md)*
+
 **Un sistema operativo de nueva generación enfocado en seguridad, rendimiento e inteligencia artificial, construido sobre un microkernel moderno en Rust.**
 
 ![IberOS Logo](docs/logo.png)
