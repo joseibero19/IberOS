@@ -141,7 +141,7 @@ Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ## Contacto
 
-José Gregorio Ibero - [joseibero19@gmail.com](mailto:joseibero19@gmail.com)
+Jose Ibero - [ibersoft96@gmail.com](mailto:ibersoft96@gmail.com)
 
 Enlace del proyecto: [https://github.com/joseibero19/IberOS](https://github.com/joseibero19/IberOS)
 
